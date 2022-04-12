@@ -9,7 +9,8 @@ reveal cards by clicking on them. Each graph card contains a rough
 sketch of a graph and has two coordinate points. Players should use
 those two points to calculate the equation of the line. Then reveal
 the graph card with it's matching equation card at the same time
-to complete the pair.
+to complete the pair. Cards are revealed for 3 seconds if they are not
+the correct pair.
 
 There are 6 pairs of graphs and equations. They vary and have
 negative slopes, positive y-intercepts and negative y-intercepts.
