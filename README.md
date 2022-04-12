@@ -1,8 +1,5 @@
 # Slope-Game
-Developed by Dylan Denq 4/11/22 
-Contact at dyldenq@uw.edu 
-Phenomena: https://www.phenomena.app/
-This program is not officially supported by or owned by Phenomena Apps
+Developed by Dylan Denq 4/11/22. Phenomena: https://www.phenomena.app/ This program is not officially supported by or owned by Phenomena Apps
 
 This game was developed as part of the process for applying as
 an Phenomena App intern. It is a simple memory card style game meant
